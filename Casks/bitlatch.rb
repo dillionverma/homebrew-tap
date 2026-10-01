@@ -1,6 +1,6 @@
 cask "bitlatch" do
-  version "0.3.3"
-  sha256 "7804685c6d05ff2b4f579f3beef197ad966207e8979d9db95e044d45f7852653"
+  version "0.3.4"
+  sha256 "7f46384e9318bbe30458d63f3ec21feccb806a5e6c73bc6bb67877507db0ecb5"
 
   url "https://github.com/dillionverma/bitlatch/releases/download/v#{version}/Bitlatch-#{version}-mac-arm64.dmg",
       verified: "github.com/dillionverma/bitlatch/"
