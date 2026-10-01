@@ -1,9 +1,9 @@
 cask "bitlatch" do
-  version "0.3.1"
-  sha256 "eb38ceacc2bd818dc833499e10ac2086e4066552d07548c89466454e342b6858"
+  version "0.3.2"
+  sha256 "50c7d5fb35091d441d5dd016594b423fedd09b0bfcb7574f585b6e7339f914e7"
 
-  url "https://github.com/dillionverma/latch/releases/download/v#{version}/Bitlatch-#{version}-mac-arm64.dmg",
-      verified: "github.com/dillionverma/latch/"
+  url "https://github.com/dillionverma/bitlatch/releases/download/v#{version}/Bitlatch-#{version}-mac-arm64.dmg",
+      verified: "github.com/dillionverma/bitlatch/"
   name "Bitlatch"
   desc "Modern, unofficial Bitwarden client"
   homepage "https://bitlatch.app/"
